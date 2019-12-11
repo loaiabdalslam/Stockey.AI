@@ -27,7 +27,7 @@
 - Data Modeling
 - Meta Labeling Method
 - Deep Learning Modeling +76% Accuracy Model
-- 
+
 
 
 # which questions this tutorial answerd :
@@ -43,6 +43,6 @@
 ### Star Project Before Clone Project 
 
 
-#### 2) Start Hacking 
+#### 1) Start Hacking 
 
 
